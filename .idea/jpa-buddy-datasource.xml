@@ -1,8 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<project version="4">
-  <component name="JpbDataSourceConfig">
-    <data-sources>
-      <data-source id="4ecb5855-64a6-4049-a8a4-2d3b3d5d8280" name="NotesApp" url="jdbc:postgresql://localhost:5432/notes" driverClass="org.postgresql.Driver" />
-    </data-sources>
-  </component>
-</project>
