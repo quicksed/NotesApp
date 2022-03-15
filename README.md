@@ -1,6 +1,5 @@
 # Notes App (project for Simbirsoft)
 
----
 
 ## 1. Стек технологий
 
